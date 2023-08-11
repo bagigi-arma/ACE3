@@ -1,12 +1,12 @@
-name = "Advanced Combat Environment 0.0.0";
+name = "ACE3 - Bagigi Fork";
 picture = "logo_ace3_ca.paa";
 actionName = "GitHub";
-action = "https://github.com/acemod/ACE3";
-description = "ACE3 - Version 0.0.0";
+action = "https://github.com/bagigi-arma/ACE3";
+description = "ACE3 fork by Bagigi";
 logo = "logo_ace3_ca.paa";
 logoOver = "logo_ace3_ca.paa";
 tooltip = "ACE3";
 tooltipOwned = "ACE3 Owned";
 overview = "Advanced Combat Environment 3, also known as ACE3, is a joint effort by the teams behind ACE2, AGM and CSE to improve the realism and authenticity of Arma 3.";
-author = "ACE3 Team";
+author = "Bagigi";
 overviewPicture = "logo_ace3_ca.paa";
